@@ -1,0 +1,10 @@
+.searchbar {
+    margin-left: 20px;
+    transition: margin-left .3s;
+    border: none;
+    outline: none;
+}
+
+.searchbar:focus {
+    margin-left: 10px;
+}

@@ -1,0 +1,17 @@
+.type {
+    font-style: italic;
+    font-family: "Roboto";
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+
+.price {
+    font-style: italic;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.title-barang h3 {
+    font-family: "Roboto";
+    margin-bottom: 0px;
+}

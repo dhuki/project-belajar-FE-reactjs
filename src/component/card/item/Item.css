@@ -1,0 +1,26 @@
+.card {
+    width: 18rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); /*multiple shadow*/
+    transition: box-shadow .5s;
+    margin-top: 20px
+}
+
+.card:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card img {
+    margin: auto;
+}
+
+.card-text {
+    color:#707070;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card-title {
+    color:#2e2d2d;
+    font-family: "Roboto";
+    margin-top: 10px;
+}

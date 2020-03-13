@@ -1,0 +1,12 @@
+.navigation li:not(.different) {
+    margin-top: 13px;
+}
+
+.navigation-header {
+    margin-top: 30px;
+    font-family: "Mukta";
+}
+
+.footer li button {
+    padding: 0px;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 2,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 3,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 4,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 5,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 6,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 7,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 8,
+        "imgUrl": "'../../../assets/cloth_1.jpg'",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+]
