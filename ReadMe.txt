@@ -1,0 +1,1 @@
+Tryna implemented atomic design in react.js
